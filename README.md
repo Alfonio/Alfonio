@@ -51,9 +51,9 @@
 
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center"> 
+<h3>Connect with me</h3>
+<p>
   <a href="https://www.linkedin.com/in/alfonso-ferraro-a173m8a20031a6d15/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfonso (thomas) ferraro fidalgo" height="30" width="40" />
   </a>
@@ -66,11 +66,10 @@
  <a href="mailto:alfosotff8903@gmail.com" target="_blank">
   <img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="@alfosotff8903@gmail.com">
 </a>
-
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+</div>
 
 <br>
 
