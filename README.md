@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/alfonio?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/alfonio?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Alfonio.repoName) <img src="https://komarev.com/ghpvc/?username=Alfonio" alt="Alfonio">
 
 <div>
-- 🌱 I’m currently learning: **Python, Data science, Web Development, New technologies**
+- 🌱 I’m currently learning: Python, Data science, Web Development, New technologies
 
 - 👯 I’m looking to collaborate on: **projects related to all kinds**
 
@@ -24,16 +24,24 @@
 
 <table align="center" ">
   <tr>
-    <td>I like cats and candies</td>
-    <td>I enjoy watching anime</td>
-    <td>Play videogames</td>
-    <td>Science and Physics</td>
+    <td align="center" >I like cats and candies</td>
+    <td align="center" >I enjoy watching anime</td>
+    <td align="center" >Videogames & Music</td>
+    <td align="center" >Science and Physics</td>
   </tr>
    <tr>
-    <td>I like cats and candies</td>
-    <td>I enjoy watching anime</td>
-    <td>Play videogames</td>
-    <td>Science and Physics</td>
+    <td>
+      <img align="center" height="140" width="140" src="https://www.icegif.com/wp-content/uploads/2023/02/icegif-934.gif"> 
+    </td>
+    <td> 
+      <img align="center" height="150" width="150" src="https://media0.giphy.com/media/BeybyPoJzgxKpHkzB5/giphy.gif?cid=6c09b952619fxlf9lhioaqlciewug4ydpjud3mnl836ta0rz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> 
+    </td>
+    <td>
+       <img align="center" height="165" width="165" src="https://media.baamboozle.com/uploads/images/185826/68b7db5b-f509-45e3-9421-db45d300e62e.gif"> 
+    </td>
+    <td>
+      <img align="center" height="165" width="165" src="https://jottedbyjena.files.wordpress.com/2020/07/lhjkb.gif"> 
+    </td>
   </tr>
 </table>
 
