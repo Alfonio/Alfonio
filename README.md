@@ -5,6 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/alfonio?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/alfonio?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Alfonio.repoName) <img src="https://komarev.com/ghpvc/?username=Alfonio" alt="Alfonio">
 
 <div>
+  
 - 🌱 I’m currently learning: Python, Data science, Web Development, New technologies
 
 - 👯 I’m looking to collaborate on: **projects related to all kinds**
