@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with: **work groups, collaborations, discoveries and learning exciting and creative things**
 
-- 💬 Ask me about:  **Work, availability, studies/projects, dependencies, and hangouts**
+- 💬 Ask me about:  **Work, availability, studies/projects, dependencies and hangouts**
 
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-ferraro-a173m8a20031a6d15)
 
