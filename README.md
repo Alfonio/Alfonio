@@ -1,5 +1,5 @@
 ![MasterHead](https://i.postimg.cc/d0fY24vG/comfy-pixel-gif-1.gif)
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Alfonso Ferraro</h1>
+<h1 align="center">Hi <img width="35" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif">, I'm Alfonso Ferraro</h1>
 <h3 align="center">¡Computer engineering student and front-end / back-end developer!</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/alfonio?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/alfonio?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Alfonio.repoName) <img src="https://komarev.com/ghpvc/?username=Alfonio" alt="Alfonio">
