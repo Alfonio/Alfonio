@@ -6,7 +6,7 @@
 
 <div>
   
-- 🌱 I’m currently learning: Python, Data science, Web Development, New technologies
+- 🌱 I’m currently learning: Data science, Next.js, Tailwind and New technologies
 
 - 👯 I’m looking to collaborate on: **projects related to all kinds**
 
