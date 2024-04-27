@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/d0fY24vG/comfy-pixel-gif-1.gif)
+![MasterHead](https://fv5-2.failiem.lv/thumb_show.php?i=4drm5826dd&view&v=1)
 <h1 align="center">Hi <img width="35" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif">, I'm Alfonso Ferraro</h1>
 <h3 align="center">¡Computer engineering student and front-end / back-end developer!</h3>
 
