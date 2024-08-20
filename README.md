@@ -1,4 +1,4 @@
-![MasterHead](https://fv5-2.failiem.lv/thumb_show.php?i=4drm5826dd&view&v=1)
+<img align="center" src="https://d11b3kka56uxd.cloudfront.net/k2o8ou%2Fpreview%2F60217656%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1724178918&Signature=UCdzp6droAxV~rE0A803lZ~-YX0YUrgFxBZwuPVYZp44CVRgC1-m2-hnW7UXh05~rj2hY7CrTWuRuJBzOfCCv0MSNIeXv1NCLspIffDbqOjQHvvw3QGsv~Ridzs1b6UOgOQsXXoipxWZ3MBcDxdOyToO1jYBqUeERRai9~EnKDPqb5tZYkfkrEf4JsaUesesmguIH6VNuorDyMw4WQd1UcXbMe7psKGMjIXAZlu2Av7l1tXlACUMZa3M-BTlHC8fUQVDRw4ioJQWxg-sUjO2iRq51CP275~jO8bejNpVxWT0Th3ieNrn4hLw0EsVEaad8ZE7l1Pv2-JrPu~GxBcksg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
 <h1 align="center">Hi <img width="35" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif">, I'm Alfonso Ferraro</h1>
 <h3 align="center">¡Computer engineering student and front-end / back-end developer!</h3>
 
