@@ -1,4 +1,4 @@
-<img align="center" src="https://d11b3kka56uxd.cloudfront.net/k2o8ou%2Fpreview%2F60217656%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1724178918&Signature=UCdzp6droAxV~rE0A803lZ~-YX0YUrgFxBZwuPVYZp44CVRgC1-m2-hnW7UXh05~rj2hY7CrTWuRuJBzOfCCv0MSNIeXv1NCLspIffDbqOjQHvvw3QGsv~Ridzs1b6UOgOQsXXoipxWZ3MBcDxdOyToO1jYBqUeERRai9~EnKDPqb5tZYkfkrEf4JsaUesesmguIH6VNuorDyMw4WQd1UcXbMe7psKGMjIXAZlu2Av7l1tXlACUMZa3M-BTlHC8fUQVDRw4ioJQWxg-sUjO2iRq51CP275~jO8bejNpVxWT0Th3ieNrn4hLw0EsVEaad8ZE7l1Pv2-JrPu~GxBcksg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
+<img width="100%"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA5cWRzaTYwajJqaDlnYWt4dmVzY2w5cmJweHhlNWxud3dvdjQxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xSMI4INJr5ivgy6C0K/giphy.gif">
 <h1 align="center">Hi <img width="35" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif">, I'm Alfonso Ferraro</h1>
 <h3 align="center">¡Computer engineering student and front-end / back-end developer!</h3>
 
@@ -26,7 +26,7 @@
 <table align="center" ">
   <tr>
     <td align="center" >I like cats and candies</td>
-    <td align="center" >I enjoy watching anime</td>
+    <td align="center" >I enjoy watching series</td>
     <td align="center" >Videogames & Music</td>
     <td align="center" >Science and Physics</td>
   </tr>
@@ -38,7 +38,7 @@
       <img align="center" height="150" width="150" src="https://media0.giphy.com/media/BeybyPoJzgxKpHkzB5/giphy.gif?cid=6c09b952619fxlf9lhioaqlciewug4ydpjud3mnl836ta0rz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> 
     </td>
     <td>
-       <img align="center" height="165" width="165" src="https://media.baamboozle.com/uploads/images/185826/68b7db5b-f509-45e3-9421-db45d300e62e.gif"> 
+       <img align="center" height="145" width="145" src="https://www.icegif.com/wp-content/uploads/2023/02/icegif-945.gif"> 
     </td>
     <td>
       <img align="center" height="165" width="165" src="https://jottedbyjena.files.wordpress.com/2020/07/lhjkb.gif"> 
